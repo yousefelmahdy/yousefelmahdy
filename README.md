@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center"><img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/></p>
 <h1 align="center">Hi 👋, I'm Yousef Elmahdy</h1>
 <h3 align="center">A passionate Undergraduate Backend developer from Egypt</h3>
 
